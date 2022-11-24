@@ -36,23 +36,24 @@ Linear Interpolation
 Circular Interpolation
 
 ### output:
-![output](./Entry.PNG)
-![output](./Status.PNG)
-![output](./Jog.PNG)
-![output](./Load%20worklist.PNG)
-![output](./Program.PNG)
-![output](./Final%20Program%20Linear.PNG)
-![output](./Final%20Program%20Circular.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Entry.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Status.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Jog.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Load%20worklist.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Program.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Final%20Program%20Linear.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Final%20Program%20Circular.PNG)
 
 Linear Interpolation:
 
 
-![output](./linear%20interpolation.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/linear%20interpolation.PNG)
 
 Circular Interpolation:
 
 
-![output](./circular%20interpolation.PNG)
+![output](https://github.com/MSowmya28/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/circular%20interpolation.PNG)
+
 
 
 
